@@ -1,0 +1,2 @@
+module kasus_2 {
+}
